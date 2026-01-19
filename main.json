@@ -4,6 +4,17 @@
     "id": "offline"
   },
   {
+    "name" : "COMMUNITY",
+    "id" : "",
+    "channels" : [
+      {
+        "name": "GLOBETALK",
+        "id": "GLOBETALK",
+        "code": "1"
+      }
+    ]
+  },
+  {
     "name": "AMERICA",
     "id": "POC-AMERICA",
     "code": "1"
