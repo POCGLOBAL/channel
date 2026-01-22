@@ -10,7 +10,12 @@
       {
         "name": "GLOBETALK",
         "id": "GLOBETALK",
-        "code": "1"
+        "code": "0"
+      },
+      {
+        "name": "POC INDONESIA",
+        "id": "https://portal.pocindonesia.com/api/channel/",
+        "code": "0"
       }
     ]
   },
@@ -31,7 +36,7 @@
   },
   {
     "name": "INDONESIA",
-    "id": "https://portal.pocindonesia.com/api/channel/",
+    "id": "POC ID",
     "code": "62"
   },
   {
