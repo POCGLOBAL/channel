@@ -1,0 +1,177 @@
+[
+  {
+    "name": "ANTIGUA AND BARBUDA",
+    "id": "POC-ANTIGUA AND BARBUDA",
+    "code": "1"
+  },
+  {
+    "name": "ARGENTINA",
+    "id": "POC-ARGENTINA",
+    "code": "54"
+  },
+  {
+    "name": "BAHAMAS",
+    "id": "POC-BAHAMAS",
+    "code": "1"
+  },
+  {
+    "name": "BARBADOS",
+    "id": "POC-BARBADOS",
+    "code": "1"
+  },
+  {
+    "name": "BELIZE",
+    "id": "POC-BELIZE",
+    "code": "501"
+  },
+  {
+    "name": "BOLIVIA",
+    "id": "POC-BOLIVIA",
+    "code": "591"
+  },
+  {
+    "name": "BRAZIL",
+    "id": "POC-BRAZIL",
+    "code": "55"
+  },
+  {
+    "name": "CANADA",
+    "id": "POC-CANADA",
+    "code": "1"
+  },
+  {
+    "name": "CHILE",
+    "id": "POC-CHILE",
+    "code": "56"
+  },
+  {
+    "name": "COLOMBIA",
+    "id": "POC-COLOMBIA",
+    "code": "57"
+  },
+  {
+    "name": "COSTA RICA",
+    "id": "POC-COSTA RICA",
+    "code": "506"
+  },
+  {
+    "name": "CUBA",
+    "id": "POC-CUBA",
+    "code": "53"
+  },
+  {
+    "name": "DOMINICA",
+    "id": "POC-DOMINICA",
+    "code": "1"
+  },
+  {
+    "name": "DOMINICAN REPUBLIC",
+    "id": "POC-DOMINICAN REPUBLIC",
+    "code": "1"
+  },
+  {
+    "name": "ECUADOR",
+    "id": "POC-ECUADOR",
+    "code": "593"
+  },
+  {
+    "name": "EL SALVADOR",
+    "id": "POC-EL SALVADOR",
+    "code": "503"
+  },
+  {
+    "name": "GRENADA",
+    "id": "POC-GRENADA",
+    "code": "1"
+  },
+  {
+    "name": "GUATEMALA",
+    "id": "POC-GUATEMALA",
+    "code": "502"
+  },
+  {
+    "name": "GUYANA",
+    "id": "POC-GUYANA",
+    "code": "592"
+  },
+  {
+    "name": "HAITI",
+    "id": "POC-HAITI",
+    "code": "509"
+  },
+  {
+    "name": "HONDURAS",
+    "id": "POC-HONDURAS",
+    "code": "504"
+  },
+  {
+    "name": "JAMAICA",
+    "id": "POC-JAMAICA",
+    "code": "1"
+  },
+  {
+    "name": "MEXICO",
+    "id": "POC-MEXICO",
+    "code": "52"
+  },
+  {
+    "name": "NICARAGUA",
+    "id": "POC-NICARAGUA",
+    "code": "505"
+  },
+  {
+    "name": "PANAMA",
+    "id": "POC-PANAMA",
+    "code": "507"
+  },
+  {
+    "name": "PARAGUAY",
+    "id": "POC-PARAGUAY",
+    "code": "595"
+  },
+  {
+    "name": "PERU",
+    "id": "POC-PERU",
+    "code": "51"
+  },
+  {
+    "name": "SAINT KITTS AND NEVIS",
+    "id": "POC-SAINT KITTS AND NEVIS",
+    "code": "1"
+  },
+  {
+    "name": "SAINT LUCIA",
+    "id": "POC-SAINT LUCIA",
+    "code": "1"
+  },
+  {
+    "name": "SAINT VINCENT AND THE GRENADINES",
+    "id": "POC-SAINT VINCENT AND THE GRENADINES",
+    "code": "1"
+  },
+  {
+    "name": "SURINAME",
+    "id": "POC-SURINAME",
+    "code": "597"
+  },
+  {
+    "name": "TRINIDAD AND TOBAGO",
+    "id": "POC-TRINIDAD AND TOBAGO",
+    "code": "1"
+  },
+  {
+    "name": "UNITED STATES",
+    "id": "POC-UNITED STATES",
+    "code": "1"
+  },
+  {
+    "name": "URUGUAY",
+    "id": "POC-URUGUAY",
+    "code": "598"
+  },
+  {
+    "name": "VENEZUELA",
+    "id": "POC-VENEZUELA",
+    "code": "58"
+  }
+]
