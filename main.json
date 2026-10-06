@@ -1,9 +1,5 @@
 [
   {
-    "name": "Choose Channel - Offline",
-    "id": "offline"
-  },
-  {
     "name" : "COMMUNITY",
     "id" : "",
     "channels" : [
