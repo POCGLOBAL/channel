@@ -67,8 +67,9 @@
   },
   {
     "name": "INDONESIA",
-    "id": "POC ID",
-    "code": "62"
+    "id": "POC-INDONESIA",
+    "code": "62",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "PHILIPPINES",
