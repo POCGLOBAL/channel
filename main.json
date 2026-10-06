@@ -15,6 +15,37 @@
     ]
   },
   {
+    "name" : "HOMEBREW SERVER",
+    "id" : "",
+    "channels" : [
+      {
+        "name": "AFRICA",
+        "id": "https://raw.githubusercontent.com/POCGLOBAL/channel/refs/heads/main/africa.json",
+        "code": "0"
+      },
+      {
+        "name": "AMERICA",
+        "id": "https://raw.githubusercontent.com/POCGLOBAL/channel/refs/heads/main/america.json",
+        "code": "0"
+      },
+      {
+        "name": "ASIA",
+        "id": "https://raw.githubusercontent.com/POCGLOBAL/channel/refs/heads/main/asia.json",
+        "code": "0"
+      },
+      {
+        "name": "EUROPE",
+        "id": "https://raw.githubusercontent.com/POCGLOBAL/channel/refs/heads/main/europe.json",
+        "code": "0"
+      },
+      {
+        "name": "OCEANIA",
+        "id": "https://raw.githubusercontent.com/POCGLOBAL/channel/refs/heads/main/oceania.json",
+        "code": "0"
+      }
+    ]
+  },
+  {
     "name": "AMERICA",
     "id": "POC-AMERICA",
     "code": "1"
@@ -86,7 +117,8 @@
   },
   {
     "name": "ECHO",
-    "id": "GLOBAL-ECHO",
-    "code": ""
+    "id": "ECHO-GLOBAL",
+    "code": "",
+    "server": "mlink.nux.my.id"
   }
 ]

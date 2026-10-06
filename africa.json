@@ -2,271 +2,325 @@
   {
     "name": "ALGERIA",
     "id": "POC-ALGERIA",
-    "code": "213"
+    "code": "213",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ANGOLA",
     "id": "POC-ANGOLA",
-    "code": "244"
+    "code": "244",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BENIN",
     "id": "POC-BENIN",
-    "code": "229"
+    "code": "229",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BOTSWANA",
     "id": "POC-BOTSWANA",
-    "code": "267"
+    "code": "267",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BURKINA FASO",
     "id": "POC-BURKINA FASO",
-    "code": "226"
+    "code": "226",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BURUNDI",
     "id": "POC-BURUNDI",
-    "code": "257"
+    "code": "257",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CABO VERDE",
     "id": "POC-CABO VERDE",
-    "code": "238"
+    "code": "238",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CAMEROON",
     "id": "POC-CAMEROON",
-    "code": "237"
+    "code": "237",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CENTRAL AFRICAN REPUBLIC",
     "id": "POC-CENTRAL AFRICAN REPUBLIC",
-    "code": "236"
+    "code": "236",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CHAD",
     "id": "POC-CHAD",
-    "code": "235"
+    "code": "235",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "COMOROS",
     "id": "POC-COMOROS",
-    "code": "269"
+    "code": "269",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "DEMOCRATIC REPUBLIC OF THE CONGO",
     "id": "POC-DEMOCRATIC REPUBLIC OF THE CONGO",
-    "code": "243"
+    "code": "243",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "DJIBOUTI",
     "id": "POC-DJIBOUTI",
-    "code": "253"
+    "code": "253",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "EGYPT",
     "id": "POC-EGYPT",
-    "code": "20"
+    "code": "20",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "EQUATORIAL GUINEA",
     "id": "POC-EQUATORIAL GUINEA",
-    "code": "240"
+    "code": "240",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ERITREA",
     "id": "POC-ERITREA",
-    "code": "291"
+    "code": "291",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ESWATINI",
     "id": "POC-ESWATINI",
-    "code": "268"
+    "code": "268",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ETHIOPIA",
     "id": "POC-ETHIOPIA",
-    "code": "251"
+    "code": "251",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "GABON",
     "id": "POC-GABON",
-    "code": "241"
+    "code": "241",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "GAMBIA",
     "id": "POC-GAMBIA",
-    "code": "220"
+    "code": "220",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "GHANA",
     "id": "POC-GHANA",
-    "code": "233"
+    "code": "233",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "GUINEA",
     "id": "POC-GUINEA",
-    "code": "224"
+    "code": "224",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "GUINEA-BISSAU",
     "id": "POC-GUINEA-BISSAU",
-    "code": "245"
+    "code": "245",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "IVORY COAST",
     "id": "POC-IVORY COAST",
-    "code": "225"
+    "code": "225",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "KENYA",
     "id": "POC-KENYA",
-    "code": "254"
+    "code": "254",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "LESOTHO",
     "id": "POC-LESOTHO",
-    "code": "266"
+    "code": "266",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "LIBERIA",
     "id": "POC-LIBERIA",
-    "code": "231"
+    "code": "231",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "LIBYA",
     "id": "POC-LIBYA",
-    "code": "218"
+    "code": "218",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MADAGASCAR",
     "id": "POC-MADAGASCAR",
-    "code": "261"
+    "code": "261",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MALAWI",
     "id": "POC-MALAWI",
-    "code": "265"
+    "code": "265",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MALI",
     "id": "POC-MALI",
-    "code": "223"
+    "code": "223",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MAURITANIA",
     "id": "POC-MAURITANIA",
-    "code": "222"
+    "code": "222",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MAURITIUS",
     "id": "POC-MAURITIUS",
-    "code": "230"
+    "code": "230",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MOROCCO",
     "id": "POC-MOROCCO",
-    "code": "212"
+    "code": "212",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MOZAMBIQUE",
     "id": "POC-MOZAMBIQUE",
-    "code": "258"
+    "code": "258",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "NAMIBIA",
     "id": "POC-NAMIBIA",
-    "code": "264"
+    "code": "264",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "NIGER",
     "id": "POC-NIGER",
-    "code": "227"
+    "code": "227",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "NIGERIA",
     "id": "POC-NIGERIA",
-    "code": "234"
+    "code": "234",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "REPUBLIC OF THE CONGO",
     "id": "POC-REPUBLIC OF THE CONGO",
-    "code": "242"
+    "code": "242",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "RWANDA",
     "id": "POC-RWANDA",
-    "code": "250"
+    "code": "250",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SAO TOME AND PRINCIPE",
     "id": "POC-SAO TOME AND PRINCIPE",
-    "code": "239"
+    "code": "239",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SENEGAL",
     "id": "POC-SENEGAL",
-    "code": "221"
+    "code": "221",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SEYCHELLES",
     "id": "POC-SEYCHELLES",
-    "code": "248"
+    "code": "248",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SIERRA LEONE",
     "id": "POC-SIERRA LEONE",
-    "code": "232"
+    "code": "232",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SOMALIA",
     "id": "POC-SOMALIA",
-    "code": "252"
+    "code": "252",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SOUTH AFRICA",
     "id": "POC-SOUTH AFRICA",
-    "code": "27"
+    "code": "27",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SOUTH SUDAN",
     "id": "POC-SOUTH SUDAN",
-    "code": "211"
+    "code": "211",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SUDAN",
     "id": "POC-SUDAN",
-    "code": "249"
+    "code": "249",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TANZANIA",
     "id": "POC-TANZANIA",
-    "code": "255"
+    "code": "255",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TOGO",
     "id": "POC-TOGO",
-    "code": "228"
+    "code": "228",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TUNISIA",
     "id": "POC-TUNISIA",
-    "code": "216"
+    "code": "216",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "UGANDA",
     "id": "POC-UGANDA",
-    "code": "256"
+    "code": "256",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ZAMBIA",
     "id": "POC-ZAMBIA",
-    "code": "260"
+    "code": "260",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ZIMBABWE",
     "id": "POC-ZIMBABWE",
-    "code": "263"
+    "code": "263",
+    "server": "mlink.nux.my.id"
   }
 ]

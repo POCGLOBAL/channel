@@ -2,256 +2,307 @@
   {
     "name": "AFGHANISTAN",
     "id": "POC-AFGHANISTAN",
-    "code": "93"
+    "code": "93",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ARMENIA",
     "id": "POC-ARMENIA",
-    "code": "374"
+    "code": "374",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "AZERBAIJAN",
     "id": "POC-AZERBAIJAN",
-    "code": "994"
+    "code": "994",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BAHRAIN",
     "id": "POC-BAHRAIN",
-    "code": "973"
+    "code": "973",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BANGLADESH",
     "id": "POC-BANGLADESH",
-    "code": "880"
+    "code": "880",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BHUTAN",
     "id": "POC-BHUTAN",
-    "code": "975"
+    "code": "975",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "BRUNEI",
     "id": "POC-BRUNEI",
-    "code": "673"
+    "code": "673",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CAMBODIA",
     "id": "POC-CAMBODIA",
-    "code": "855"
+    "code": "855",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CHINA",
     "id": "POC-CHINA",
-    "code": "86"
+    "code": "86",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "CYPRUS",
     "id": "POC-CYPRUS",
-    "code": "357"
+    "code": "357",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "GEORGIA",
     "id": "POC-GEORGIA",
-    "code": "995"
+    "code": "995",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "HONG KONG",
     "id": "POC-HONG KONG",
-    "code": "852"
+    "code": "852",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "INDIA",
     "id": "POC-INDIA",
-    "code": "91"
+    "code": "91",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "INDONESIA",
     "id": "POC-INDONESIA",
-    "code": "62"
+    "code": "62",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "IRAN",
     "id": "POC-IRAN",
-    "code": "98"
+    "code": "98",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "IRAQ",
     "id": "POC-IRAQ",
-    "code": "964"
+    "code": "964",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "ISRAEL",
     "id": "POC-ISRAEL",
-    "code": "972"
+    "code": "972",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "JAPAN",
     "id": "POC-JAPAN",
-    "code": "81"
+    "code": "81",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "JORDAN",
     "id": "POC-JORDAN",
-    "code": "962"
+    "code": "962",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "KAZAKHSTAN",
     "id": "POC-KAZAKHSTAN",
-    "code": "7"
+    "code": "7",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "KUWAIT",
     "id": "POC-KUWAIT",
-    "code": "965"
+    "code": "965",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "KYRGYZSTAN",
     "id": "POC-KYRGYZSTAN",
-    "code": "996"
+    "code": "996",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "LAOS",
     "id": "POC-LAOS",
-    "code": "856"
+    "code": "856",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "LEBANON",
     "id": "POC-LEBANON",
-    "code": "961"
+    "code": "961",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MACAU",
     "id": "POC-MACAU",
-    "code": "853"
+    "code": "853",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MALAYSIA",
     "id": "POC-MALAYSIA",
-    "code": "60"
+    "code": "60",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MALDIVES",
     "id": "POC-MALDIVES",
-    "code": "960"
+    "code": "960",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MONGOLIA",
     "id": "POC-MONGOLIA",
-    "code": "976"
+    "code": "976",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "MYANMAR",
     "id": "POC-MYANMAR",
-    "code": "95"
+    "code": "95",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "NEPAL",
     "id": "POC-NEPAL",
-    "code": "977"
+    "code": "977",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "NORTH KOREA",
     "id": "POC-NORTH KOREA",
-    "code": "850"
+    "code": "850",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "OMAN",
     "id": "POC-OMAN",
-    "code": "968"
+    "code": "968",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "PAKISTAN",
     "id": "POC-PAKISTAN",
-    "code": "92"
+    "code": "92",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "PALESTINE",
     "id": "POC-PALESTINE",
-    "code": "970"
+    "code": "970",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "PHILIPPINES",
     "id": "POC-PHILIPPINES",
-    "code": "63"
+    "code": "63",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "QATAR",
     "id": "POC-QATAR",
-    "code": "974"
+    "code": "974",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SAUDI ARABIA",
     "id": "POC-SAUDI ARABIA",
-    "code": "966"
+    "code": "966",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SINGAPORE",
     "id": "POC-SINGAPORE",
-    "code": "65"
+    "code": "65",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SOUTH KOREA",
     "id": "POC-SOUTH KOREA",
-    "code": "82"
+    "code": "82",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SRI LANKA",
     "id": "POC-SRI LANKA",
-    "code": "94"
+    "code": "94",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "SYRIA",
     "id": "POC-SYRIA",
-    "code": "963"
+    "code": "963",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TAIWAN",
     "id": "POC-TAIWAN",
-    "code": "886"
+    "code": "886",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TAJIKISTAN",
     "id": "POC-TAJIKISTAN",
-    "code": "992"
+    "code": "992",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "THAILAND",
     "id": "POC-THAILAND",
-    "code": "66"
+    "code": "66",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TIMOR-LESTE",
     "id": "POC-TIMOR-LESTE",
-    "code": "670"
+    "code": "670",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TURKEY",
     "id": "POC-TURKEY",
-    "code": "90"
+    "code": "90",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "TURKMENISTAN",
     "id": "POC-TURKMENISTAN",
-    "code": "993"
+    "code": "993",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "UNITED ARAB EMIRATES",
     "id": "POC-UNITED ARAB EMIRATES",
-    "code": "971"
+    "code": "971",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "UZBEKISTAN",
     "id": "POC-UZBEKISTAN",
-    "code": "998"
+    "code": "998",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "VIETNAM",
     "id": "POC-VIETNAM",
-    "code": "84"
+    "code": "84",
+    "server": "mlink.nux.my.id"
   },
   {
     "name": "YEMEN",
     "id": "POC-YEMEN",
-    "code": "967"
+    "code": "967",
+    "server": "mlink.nux.my.id"
   }
 ]
