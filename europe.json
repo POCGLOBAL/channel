@@ -1,0 +1,232 @@
+[
+  {
+    "name": "ALBANIA",
+    "id": "POC-ALBANIA",
+    "code": "355"
+  },
+  {
+    "name": "ANDORRA",
+    "id": "POC-ANDORRA",
+    "code": "376"
+  },
+  {
+    "name": "AUSTRIA",
+    "id": "POC-AUSTRIA",
+    "code": "43"
+  },
+  {
+    "name": "BELARUS",
+    "id": "POC-BELARUS",
+    "code": "375"
+  },
+  {
+    "name": "BELGIUM",
+    "id": "POC-BELGIUM",
+    "code": "32"
+  },
+  {
+    "name": "BOSNIA AND HERZEGOVINA",
+    "id": "POC-BOSNIA AND HERZEGOVINA",
+    "code": "387"
+  },
+  {
+    "name": "BULGARIA",
+    "id": "POC-BULGARIA",
+    "code": "359"
+  },
+  {
+    "name": "CROATIA",
+    "id": "POC-CROATIA",
+    "code": "385"
+  },
+  {
+    "name": "CYPRUS",
+    "id": "POC-CYPRUS",
+    "code": "357"
+  },
+  {
+    "name": "CZECH REPUBLIC",
+    "id": "POC-CZECH REPUBLIC",
+    "code": "420"
+  },
+  {
+    "name": "DENMARK",
+    "id": "POC-DENMARK",
+    "code": "45"
+  },
+  {
+    "name": "ESTONIA",
+    "id": "POC-ESTONIA",
+    "code": "372"
+  },
+  {
+    "name": "FINLAND",
+    "id": "POC-FINLAND",
+    "code": "358"
+  },
+  {
+    "name": "FRANCE",
+    "id": "POC-FRANCE",
+    "code": "33"
+  },
+  {
+    "name": "GERMANY",
+    "id": "POC-GERMANY",
+    "code": "49"
+  },
+  {
+    "name": "GREECE",
+    "id": "POC-GREECE",
+    "code": "30"
+  },
+  {
+    "name": "HUNGARY",
+    "id": "POC-HUNGARY",
+    "code": "36"
+  },
+  {
+    "name": "ICELAND",
+    "id": "POC-ICELAND",
+    "code": "354"
+  },
+  {
+    "name": "IRELAND",
+    "id": "POC-IRELAND",
+    "code": "353"
+  },
+  {
+    "name": "ITALY",
+    "id": "POC-ITALY",
+    "code": "39"
+  },
+  {
+    "name": "KOSOVO",
+    "id": "POC-KOSOVO",
+    "code": "383"
+  },
+  {
+    "name": "LATVIA",
+    "id": "POC-LATVIA",
+    "code": "371"
+  },
+  {
+    "name": "LIECHTENSTEIN",
+    "id": "POC-LIECHTENSTEIN",
+    "code": "423"
+  },
+  {
+    "name": "LITHUANIA",
+    "id": "POC-LITHUANIA",
+    "code": "370"
+  },
+  {
+    "name": "LUXEMBOURG",
+    "id": "POC-LUXEMBOURG",
+    "code": "352"
+  },
+  {
+    "name": "MALTA",
+    "id": "POC-MALTA",
+    "code": "356"
+  },
+  {
+    "name": "MOLDOVA",
+    "id": "POC-MOLDOVA",
+    "code": "373"
+  },
+  {
+    "name": "MONACO",
+    "id": "POC-MONACO",
+    "code": "377"
+  },
+  {
+    "name": "MONTENEGRO",
+    "id": "POC-MONTENEGRO",
+    "code": "382"
+  },
+  {
+    "name": "NETHERLANDS",
+    "id": "POC-NETHERLANDS",
+    "code": "31"
+  },
+  {
+    "name": "NORTH MACEDONIA",
+    "id": "POC-NORTH MACEDONIA",
+    "code": "389"
+  },
+  {
+    "name": "NORWAY",
+    "id": "POC-NORWAY",
+    "code": "47"
+  },
+  {
+    "name": "POLAND",
+    "id": "POC-POLAND",
+    "code": "48"
+  },
+  {
+    "name": "PORTUGAL",
+    "id": "POC-PORTUGAL",
+    "code": "351"
+  },
+  {
+    "name": "ROMANIA",
+    "id": "POC-ROMANIA",
+    "code": "40"
+  },
+  {
+    "name": "RUSSIA",
+    "id": "POC-RUSSIA",
+    "code": "7"
+  },
+  {
+    "name": "SAN MARINO",
+    "id": "POC-SAN MARINO",
+    "code": "378"
+  },
+  {
+    "name": "SERBIA",
+    "id": "POC-SERBIA",
+    "code": "381"
+  },
+  {
+    "name": "SLOVAKIA",
+    "id": "POC-SLOVAKIA",
+    "code": "421"
+  },
+  {
+    "name": "SLOVENIA",
+    "id": "POC-SLOVENIA",
+    "code": "386"
+  },
+  {
+    "name": "SPAIN",
+    "id": "POC-SPAIN",
+    "code": "34"
+  },
+  {
+    "name": "SWEDEN",
+    "id": "POC-SWEDEN",
+    "code": "46"
+  },
+  {
+    "name": "SWITZERLAND",
+    "id": "POC-SWITZERLAND",
+    "code": "41"
+  },
+  {
+    "name": "UKRAINE",
+    "id": "POC-UKRAINE",
+    "code": "380"
+  },
+  {
+    "name": "UNITED KINGDOM",
+    "id": "POC-UNITED KINGDOM",
+    "code": "44"
+  },
+  {
+    "name": "VATICAN CITY",
+    "id": "POC-VATICAN CITY",
+    "code": "379"
+  }
+]
