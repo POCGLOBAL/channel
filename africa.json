@@ -1,0 +1,272 @@
+[
+  {
+    "name": "ALGERIA",
+    "id": "POC-ALGERIA",
+    "code": "213"
+  },
+  {
+    "name": "ANGOLA",
+    "id": "POC-ANGOLA",
+    "code": "244"
+  },
+  {
+    "name": "BENIN",
+    "id": "POC-BENIN",
+    "code": "229"
+  },
+  {
+    "name": "BOTSWANA",
+    "id": "POC-BOTSWANA",
+    "code": "267"
+  },
+  {
+    "name": "BURKINA FASO",
+    "id": "POC-BURKINA FASO",
+    "code": "226"
+  },
+  {
+    "name": "BURUNDI",
+    "id": "POC-BURUNDI",
+    "code": "257"
+  },
+  {
+    "name": "CABO VERDE",
+    "id": "POC-CABO VERDE",
+    "code": "238"
+  },
+  {
+    "name": "CAMEROON",
+    "id": "POC-CAMEROON",
+    "code": "237"
+  },
+  {
+    "name": "CENTRAL AFRICAN REPUBLIC",
+    "id": "POC-CENTRAL AFRICAN REPUBLIC",
+    "code": "236"
+  },
+  {
+    "name": "CHAD",
+    "id": "POC-CHAD",
+    "code": "235"
+  },
+  {
+    "name": "COMOROS",
+    "id": "POC-COMOROS",
+    "code": "269"
+  },
+  {
+    "name": "DEMOCRATIC REPUBLIC OF THE CONGO",
+    "id": "POC-DEMOCRATIC REPUBLIC OF THE CONGO",
+    "code": "243"
+  },
+  {
+    "name": "DJIBOUTI",
+    "id": "POC-DJIBOUTI",
+    "code": "253"
+  },
+  {
+    "name": "EGYPT",
+    "id": "POC-EGYPT",
+    "code": "20"
+  },
+  {
+    "name": "EQUATORIAL GUINEA",
+    "id": "POC-EQUATORIAL GUINEA",
+    "code": "240"
+  },
+  {
+    "name": "ERITREA",
+    "id": "POC-ERITREA",
+    "code": "291"
+  },
+  {
+    "name": "ESWATINI",
+    "id": "POC-ESWATINI",
+    "code": "268"
+  },
+  {
+    "name": "ETHIOPIA",
+    "id": "POC-ETHIOPIA",
+    "code": "251"
+  },
+  {
+    "name": "GABON",
+    "id": "POC-GABON",
+    "code": "241"
+  },
+  {
+    "name": "GAMBIA",
+    "id": "POC-GAMBIA",
+    "code": "220"
+  },
+  {
+    "name": "GHANA",
+    "id": "POC-GHANA",
+    "code": "233"
+  },
+  {
+    "name": "GUINEA",
+    "id": "POC-GUINEA",
+    "code": "224"
+  },
+  {
+    "name": "GUINEA-BISSAU",
+    "id": "POC-GUINEA-BISSAU",
+    "code": "245"
+  },
+  {
+    "name": "IVORY COAST",
+    "id": "POC-IVORY COAST",
+    "code": "225"
+  },
+  {
+    "name": "KENYA",
+    "id": "POC-KENYA",
+    "code": "254"
+  },
+  {
+    "name": "LESOTHO",
+    "id": "POC-LESOTHO",
+    "code": "266"
+  },
+  {
+    "name": "LIBERIA",
+    "id": "POC-LIBERIA",
+    "code": "231"
+  },
+  {
+    "name": "LIBYA",
+    "id": "POC-LIBYA",
+    "code": "218"
+  },
+  {
+    "name": "MADAGASCAR",
+    "id": "POC-MADAGASCAR",
+    "code": "261"
+  },
+  {
+    "name": "MALAWI",
+    "id": "POC-MALAWI",
+    "code": "265"
+  },
+  {
+    "name": "MALI",
+    "id": "POC-MALI",
+    "code": "223"
+  },
+  {
+    "name": "MAURITANIA",
+    "id": "POC-MAURITANIA",
+    "code": "222"
+  },
+  {
+    "name": "MAURITIUS",
+    "id": "POC-MAURITIUS",
+    "code": "230"
+  },
+  {
+    "name": "MOROCCO",
+    "id": "POC-MOROCCO",
+    "code": "212"
+  },
+  {
+    "name": "MOZAMBIQUE",
+    "id": "POC-MOZAMBIQUE",
+    "code": "258"
+  },
+  {
+    "name": "NAMIBIA",
+    "id": "POC-NAMIBIA",
+    "code": "264"
+  },
+  {
+    "name": "NIGER",
+    "id": "POC-NIGER",
+    "code": "227"
+  },
+  {
+    "name": "NIGERIA",
+    "id": "POC-NIGERIA",
+    "code": "234"
+  },
+  {
+    "name": "REPUBLIC OF THE CONGO",
+    "id": "POC-REPUBLIC OF THE CONGO",
+    "code": "242"
+  },
+  {
+    "name": "RWANDA",
+    "id": "POC-RWANDA",
+    "code": "250"
+  },
+  {
+    "name": "SAO TOME AND PRINCIPE",
+    "id": "POC-SAO TOME AND PRINCIPE",
+    "code": "239"
+  },
+  {
+    "name": "SENEGAL",
+    "id": "POC-SENEGAL",
+    "code": "221"
+  },
+  {
+    "name": "SEYCHELLES",
+    "id": "POC-SEYCHELLES",
+    "code": "248"
+  },
+  {
+    "name": "SIERRA LEONE",
+    "id": "POC-SIERRA LEONE",
+    "code": "232"
+  },
+  {
+    "name": "SOMALIA",
+    "id": "POC-SOMALIA",
+    "code": "252"
+  },
+  {
+    "name": "SOUTH AFRICA",
+    "id": "POC-SOUTH AFRICA",
+    "code": "27"
+  },
+  {
+    "name": "SOUTH SUDAN",
+    "id": "POC-SOUTH SUDAN",
+    "code": "211"
+  },
+  {
+    "name": "SUDAN",
+    "id": "POC-SUDAN",
+    "code": "249"
+  },
+  {
+    "name": "TANZANIA",
+    "id": "POC-TANZANIA",
+    "code": "255"
+  },
+  {
+    "name": "TOGO",
+    "id": "POC-TOGO",
+    "code": "228"
+  },
+  {
+    "name": "TUNISIA",
+    "id": "POC-TUNISIA",
+    "code": "216"
+  },
+  {
+    "name": "UGANDA",
+    "id": "POC-UGANDA",
+    "code": "256"
+  },
+  {
+    "name": "ZAMBIA",
+    "id": "POC-ZAMBIA",
+    "code": "260"
+  },
+  {
+    "name": "ZIMBABWE",
+    "id": "POC-ZIMBABWE",
+    "code": "263"
+  }
+]
