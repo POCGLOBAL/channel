@@ -1,0 +1,86 @@
+[
+  {
+    "name": "AUSTRALIA",
+    "id": "POC-AUSTRALIA",
+    "code": "61",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "FIJI",
+    "id": "POC-FIJI",
+    "code": "679",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "KIRIBATI",
+    "id": "POC-KIRIBATI",
+    "code": "686",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "MARSHALL ISLANDS",
+    "id": "POC-MARSHALL ISLANDS",
+    "code": "692",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "MICRONESIA",
+    "id": "POC-MICRONESIA",
+    "code": "691",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "NAURU",
+    "id": "POC-NAURU",
+    "code": "674",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "NEW ZEALAND",
+    "id": "POC-NEW ZEALAND",
+    "code": "64",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "PALAU",
+    "id": "POC-PALAU",
+    "code": "680",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "PAPUA NEW GUINEA",
+    "id": "POC-PAPUA NEW GUINEA",
+    "code": "675",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "SAMOA",
+    "id": "POC-SAMOA",
+    "code": "685",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "SOLOMON ISLANDS",
+    "id": "POC-SOLOMON ISLANDS",
+    "code": "677",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "TONGA",
+    "id": "POC-TONGA",
+    "code": "676",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "TUVALU",
+    "id": "POC-TUVALU",
+    "code": "688",
+    "server": "mlink.nux.my.id"
+  },
+  {
+    "name": "VANUATU",
+    "id": "POC-VANUATU",
+    "code": "678",
+    "server": "mlink.nux.my.id"
+  }
+]
